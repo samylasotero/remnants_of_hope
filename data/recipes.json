@@ -1,0 +1,27 @@
+{
+  "faca": {
+    "name": "Faca",
+    "rarity": "intermediario",
+    "inputs": {
+      "madeira": 1,
+      "sucata_metal": 1
+    }
+  },
+  "kit_eletronico": {
+    "name": "Kit eletrônico",
+    "rarity": "raro",
+    "inputs": {
+      "placa_circuito": 1,
+      "fios_eletricos": 1,
+      "pilhas": 1
+    }
+  },
+  "kit_medico_avancado": {
+    "name": "Kit médico avançado",
+    "rarity": "raro",
+    "inputs": {
+      "antibioticos": 1,
+      "kit_medico": 1
+    }
+  }
+}
